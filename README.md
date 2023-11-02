@@ -21,4 +21,5 @@ glass_defender
 • Real-time object detection (YOLOv5) and classification (MobileNetV2) are performed to control LEDs based on detection of fragile objects
 
 request_exm
-• Running a server that controls LEDs through a web application in RaspberryPi
+• Running a server # Glass_Defender_pj
+[AIot Project] Using the camera of the tablet PC in the restaurant to prevent glass and glass bottles from falling
