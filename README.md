@@ -1,25 +1,48 @@
 # Glass_Defender_pj
-[AIot Project] Using the camera of the tablet PC in the restaurant to prevent glass and glass bottles from falling
+**<h3>[AIot Project]</h3>** 
+
+**Team name** : Glass Defender
+
+**Team member** : jahyeon Kwon, Garin Lee
+
+**Topic** :
+- Using the camera of the tablet PC in the restaurant "to prevent glass and glass bottles from falling"
+  
+   (Modified **YOLOv5** and **MobileNetV2** with transfer learning, Utilizing **RaspberryPi**)
 
 ![project structure](project_structure.png)
 
-image_crawling
-• crawling_google&naver(JupyterNotebook) : Crawling codes that collects images from Google and Naver (cups, beer cups, soju cups)
+**image_crawling** <br>
 
-models
-• models_comparision(PyCharm) : Compare inference speeds and resource usage for three CNN models(VGG-16, ResNet-50, MobileNetV2)
-• MobileNetV2(Colab) : Transfer Learning Using MobileNetV2
-• MobileNetV2_test(PyCharm) : Test the learning model to assess accuracy and loss
+• crawling_google&naver(JupyterNotebook) : Crawling codes that collects images from Google and Naver <br>
+  (cups, beer cups, soju cups) <br>
+<br>
 
-desk_edge_save
-• Extracting table contours with OpenCV (cv2)
+**models** <br>
 
-edge_detection
-• Output to table contours and RedLine screens
+• models_comparision (PyCharm) : Compare inference speeds and resource usage for three CNN models <br>
+  (VGG-16, ResNet-50, MobileNetV2) <br>
+  
+• MobileNetV2 (Colab) : Transfer Learning Using MobileNetV2 <br>
 
-glass_defender
-• Real-time object detection (YOLOv5) and classification (MobileNetV2) are performed to control LEDs based on detection of fragile objects
+• MobileNetV2_test (PyCharm) : Test the learning model to assess accuracy and loss <br>
+<br>
 
-request_exm
-• Running a server # Glass_Defender_pj
-[AIot Project] Using the camera of the tablet PC in the restaurant to prevent glass and glass bottles from falling
+**desk_edge_save** <br>
+
+• Extracting table contours with OpenCV (cv2) <br>
+<br>
+
+**edge_detection** <br>
+
+• Output to table contours and RedLine screens <br>
+<br>
+
+**glass_defender** <br>
+
+• Real-time object detection (YOLOv5) and classification (MobileNetV2) are performed to control LEDs based on detection of fragile objects <br>
+<br>
+
+**request_exm** <br>
+
+• Running a server <br>
