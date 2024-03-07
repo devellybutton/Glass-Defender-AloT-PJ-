@@ -1,4 +1,4 @@
-# Glass_Defender_pj
+# Glass_Defender_project
 **<h3>[AIot Project]</h3>** 
 
 **Team name** : Glass Defender
