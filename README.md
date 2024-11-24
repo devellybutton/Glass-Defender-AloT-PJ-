@@ -1,48 +1,27 @@
-# Glass_Defender_project
-**<h3>[AIot Project]</h3>** 
+# 1. 프로젝트 개요
+## 1) 주제 및 선정 배경
+## 2) 외식업계의 무인화 가속화 현황
+## 3) 문제상황 및 기대효과
+## 4) 프로젝트 구조
+## 5) 활용 도구 및 장비
 
-**Team name** : Glass Defender
+------
 
-**Team member** : jahyeon Kwon, Garin Lee
+# 2. 프로젝트 팀 구성 및 역할
 
-**Topic** :
-- Using the camera of the tablet PC in the restaurant "to prevent glass and glass bottles from falling"
-  
-   (Modified **YOLOv5** and **MobileNetV2** with transfer learning, Utilizing **RaspberryPi**)
+------
 
-![project structure](project_structure.png)
+# 3. 프로젝트 수행 과정
 
-**image_crawling** <br>
+------
 
-• crawling_google&naver(JupyterNotebook) : Crawling codes that collects images from Google and Naver <br>
-  (cups, beer cups, soju cups) <br>
-<br>
+# 4. 프로젝트 수행 결과
+## 1) 개요
+## 2) 시연 영상
 
-**models** <br>
 
-• models_comparision (PyCharm) : Compare inference speeds and resource usage for three CNN models <br>
-  (VGG-16, ResNet-50, MobileNetV2) <br>
-  
-• MobileNetV2 (Colab) : Transfer Learning Using MobileNetV2 <br>
+-------
 
-• MobileNetV2_test (PyCharm) : Test the learning model to assess accuracy and loss <br>
-<br>
-
-**desk_edge_save** <br>
-
-• Extracting table contours with OpenCV (cv2) <br>
-<br>
-
-**edge_detection** <br>
-
-• Output to table contours and RedLine screens <br>
-<br>
-
-**glass_defender** <br>
-
-• Real-time object detection (YOLOv5) and classification (MobileNetV2) are performed to control LEDs based on detection of fragile objects <br>
-<br>
-
-**request_exm** <br>
-
-• Running a server <br>
+# 5. 프로젝트 평가
+## 1) 한계점과 개선점
+## 2) 향후 계획 및 제언
