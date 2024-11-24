@@ -2,10 +2,10 @@
 
 | 파일명 | 내용 |
 |---------|--------|
-| mobiilenetv2_final.ipynb    |   PyTorch를 사용해 이미지 분류 모델(MobileNetV2)을 학습하고, 학습 과정에서 발생한 손실 값을 그래프로 시각화한 후 모델을 저장      |
-| mobiilenetv2_test.py  |  MobileNetV2 모델을 로드하여 테스트 데이터셋에 대해 평가를 수행하고, 전체 정확도와 손실, 그리고 각 클래스별 정확도 및 평균 손실을 출력     |
-| models_comparison.py  |   VGG16, ResNet50, MobileNetV2 모델의 추론 속도와 메모리 사용량을 측정하여 출력<br> 각 모델에 대해 임의의 데이터를 사용해 성능을 비교     |
-| trained_model_final.pt  |   학습이 완료된 PyTorch 모델의 가중치 파일    |
+| <b>`mobiilenetv2_final.ipynb`</b>    |   PyTorch를 사용해 이미지 분류 모델(MobileNetV2)을 학습하고, 학습 과정에서 발생한 손실 값을 그래프로 시각화한 후 모델을 저장      |
+| <b>`mobiilenetv2_test.py`</b>  |  MobileNetV2 모델을 로드하여 테스트 데이터셋에 대해 평가를 수행하고, 전체 정확도와 손실, 그리고 각 클래스별 정확도 및 평균 손실을 출력     |
+| <b>`models_comparison.py`</b>  |   VGG16, ResNet50, MobileNetV2 모델의 추론 속도와 메모리 사용량을 측정하여 출력<br> 각 모델에 대해 임의의 데이터를 사용해 성능을 비교     |
+| <b>`trained_model_final.pt`</b>  |   학습이 완료된 PyTorch 모델의 가중치 파일    |
 
 -----
 
