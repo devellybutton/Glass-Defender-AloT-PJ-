@@ -1,3 +1,5 @@
+
+
 # 1. 프로젝트 개요
 ## 1) 주제 및 선정 배경
 ## 2) 외식업계의 무인화 가속화 현황
@@ -19,6 +21,7 @@
 ## 1) 개요
 ## 2) 시연 영상
 
+[![Video Label](http://img.youtube.com/vi/sdjRR-CV2RM/0.jpg)](https://youtu.be/sdjRR-CV2RM)
 
 -------
 
