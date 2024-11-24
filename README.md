@@ -160,12 +160,12 @@
 ## 1) 개요
 
 > #### 🔶 인공지능 모델 학습
-> 데이터 수집(①) → 데이터 처리(②) → 모델 선정(③) → 모델 학습(④) → 모델 평가(⑤)
+> [데이터 수집(①)](https://github.com/devellybutton/Glass-Defender-AloT-Project/blob/main/image_crawling/README.md#1-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%88%98%EC%A7%91) → [데이터 처리(②)](https://github.com/devellybutton/Glass-Defender-AloT-Project/blob/main/image_crawling/README.md#2-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B2%98%EB%A6%AC) → [모델 선정(③)](https://github.com/devellybutton/Glass-Defender-AloT-Project/blob/main/models/README.md#3-%EB%AA%A8%EB%8D%B8-%EC%84%A0%EC%A0%95) → [모델 학습(④)](https://github.com/devellybutton/Glass-Defender-AloT-Project/blob/main/models/README.md#4-%EB%AA%A8%EB%8D%B8-%ED%95%99%EC%8A%B5) → [모델 평가(⑤)](https://github.com/devellybutton/Glass-Defender-AloT-Project/blob/main/models/README.md#5-%EB%AA%A8%EB%8D%B8-%ED%8F%89%EA%B0%80)
 
 > #### 🔶 영상처리를 활용한 객체 탐지 및 LED 통합 제어
-> OpenCV2로 책상 윤곽선과 RedLine 검출(⑥) <br>
-> → MobileNetV2를 YOLOv5환경에서 실행(⑦) <br>
-> → 서버-클라이언트 연결 및 LED 제어 구현(⑧) <br>
+> [OpenCV2로 책상 윤곽선과 RedLine 검출(⑥)](https://github.com/devellybutton/Glass-Defender-AloT-Project/blob/main/scripts/README.md#6-mobilenetv2%EC%99%80-yolov5-%ED%99%98%EA%B2%BD-%ED%86%B5%ED%95%A9) <br>
+> → [MobileNetV2를 YOLOv5환경에서 실행(⑦)](https://github.com/devellybutton/Glass-Defender-AloT-Project/blob/main/scripts/README.md#7-%ED%85%8C%EC%9D%B4%EB%B8%94-%EC%9C%A4%EA%B3%BD%EC%84%A0%EA%B3%BC-redline-%ED%99%94%EB%A9%B4-%EC%B6%9C%EB%A0%A5) <br>
+> → [서버-클라이언트 연결 및 LED 제어 구현(⑧)](https://github.com/devellybutton/Glass-Defender-AloT-Project/blob/main/scripts/README.md#8-%EC%84%9C%EB%B2%84%EB%85%B8%ED%8A%B8%EB%B6%81-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%ED%8C%8C%EC%9D%B4-%EC%97%B0%EA%B2%B0-%EB%B0%8F-%EC%B5%9C%EC%A2%85-%EA%B5%AC%EB%8F%99) <br>
 
 * 단계별 진행 내용은 각 폴더 README 문서에 기재해 두었음.
 
