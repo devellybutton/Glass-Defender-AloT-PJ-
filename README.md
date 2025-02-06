@@ -134,8 +134,9 @@
 
 # 2. 프로젝트 팀 구성 및 역할
 
-| 권재현 | [이가린](https://github.com/devellybutton) |
+| 권재현 | 이가린 |
 |--------|--------|
+| [@bluegold9275](https://github.com/bluegold9275) | [@devellybutton](https://github.com/devellybutton) |
 | 컴퓨터 비전(cv2) 활용 | 데이터 수집 (크롤링, 촬영) |
 | YOLOv5 모델 변환 | 데이터 정제 |
 | YOLOv5 모델, MobileNetV2 동시 구동 | MobileNetV2 모델 전이학습 |
